@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 💦 I’m trying to become a ✨full stack developer✨ I
+- 📺 I have been addicted to watching series 🔥 since 2010
+- 🏀 I used to love LAClippers ⛵ as lob city, now I just enjoy the games
+- 🎮 Games are always one of my favorites
+
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=Meruem117) -->
 
-![steam](https://img.shields.io/badge/Steam-Meruem-9cf)
+![steam](https://img.shields.io/badge/Steam-Meruem-9cf) 
+![epic](https://img.shields.io/badge/Epic-Meruem-blue)
+
+<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&hide_border=true&langs_count=10) -->
