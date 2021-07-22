@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=Meruem117) -->
+
+![steam](https://img.shields.io/badge/Steam-Meruem-9cf)
