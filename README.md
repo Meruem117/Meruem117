@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![steam](https://img.shields.io/badge/Steam-Meruem-9cf) 
 ![epic](https://img.shields.io/badge/Epic-Meruem-blue)
 
-### Poor Status 🐟
+### Poor Stat 🐟
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Meruem117&hide=prs&line_height=29&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&hide_border=false&langs_count=8&hide=css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
