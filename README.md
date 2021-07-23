@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ### Poor Stat 🐟
 
-![stats](https://github-readme-stats.vercel.app/api?username=Meruem117&hide=prs&line_height=29&bg_color=20,45a247,283c86&title_color=fff&text_color=fff)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&hide_border=false&langs_count=8&hide=css&bg_color=20,283c86,45a247&title_color=fff&text_color=fff)
+![stats](https://github-readme-stats.vercel.app/api?username=Meruem117&hide=prs&line_height=29&bg_color=20,C33764,1D2671&title_color=fff&text_color=fff)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&hide_border=false&langs_count=8&hide=css&bg_color=20,1D2671,C33764&title_color=fff&text_color=fff)
