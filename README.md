@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![epic](https://img.shields.io/badge/Epic-Meruem-blue)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=Meruem117) -->
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&hide_border=true&langs_count=10)
+<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&hide_border=true&langs_count=10) -->
