@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 - 🎮 Games are always one of my favorites
 
 ![steam](https://img.shields.io/badge/Steam-Meruem-9cf) 
-![epic](https://img.shields.io/badge/Epic-Meruem-blue)
+![epic](https://img.shields.io/badge/Epic-Meruem-lightgrey)
+![uplay](https://img.shields.io/badge/Uplay-Meru117-red)
+![origin](https://img.shields.io/badge/Origin-DaVinci00X-orange)
+![rockstar](https://img.shields.io/badge/Rockstar-Meruemmmmm-yellow)
+![xbox](https://img.shields.io/badge/Xbox-Meruem117-green)
 
 ### Poor Stat 🐟
 
