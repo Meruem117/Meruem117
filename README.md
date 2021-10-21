@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 ### Poor Stat 🐟
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Meruem117&hide=prs&include_all_commits=true&count_private=true&show_icons=true&line_height=29&bg_color=20,C33764,185a9d&title_color=CD9B1D&text_color=FFE4B5&icon_color=CD9B1D)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&langs_count=8&bg_color=20,185a9d,C33764&title_color=CD9B1D&text_color=FFE4B5)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meruem117&layout=compact&langs_count=8&bg_color=20,185a9d,C33764&title_color=CD9B1D&text_color=FFE4B5&card_width=360)
