@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=meruem117&hide_title=true&show_icons=true&include_all_commits=true&theme=darcula) -->
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meruem117&layout=compact&langs_count=5&hide=html,css,php,blade&hide_title=true&bg_color=20,185a9d,C33764&title_color=CD9B1D&text_color=FFE4B5)
+![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meruem117&layout=compact&langs_count=5&hide=html,css,php,blade&hide_title=true&bg_color=20,185a9d,C33764&title_color=CD9B1D&text_color=FFE4B5)
 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meruem117&layout=compact&langs_count=8&hide_title=true&theme=darcula) -->
