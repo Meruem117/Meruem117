@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![xbox](https://img.shields.io/badge/Xbox-Meruem117-green)
 
 ### Poor Stat 🐟
-![stats](https://github-readme-stats.vercel.app/api?username=Meruem117&hide_title=true&show_icons=true&include_all_commits=true&line_height=24&bg_color=20,C33764,185a9d&text_color=FFE4B5&icon_color=CD9B1D)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meruem117&hide_title=true&show_icons=true&include_all_commits=true&line_height=24&bg_color=20,C33764,185a9d&text_color=FFE4B5&icon_color=CD9B1D)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=meruem117&hide_title=true&show_icons=true&include_all_commits=true&theme=darcula) -->
 
