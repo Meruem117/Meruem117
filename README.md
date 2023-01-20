@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💦 I’m trying to become a ✨full stack developer✨
-- 🥰 Favorites: Games🎮, Series📺, Basketball🏀
+- 🥰 Favorites: Games🎮 & Series📺 & Basketball🏀
 <!-- - 📺 I have been addicted to watching series 🔥 since 2010
 - 🏀 I used to love LAClippers ⛵ as lob city, now I just enjoy the games
 - 🎮 Games are always one of my favorites -->
