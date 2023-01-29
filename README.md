@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 - 💦 I’m trying to become a ✨full stack developer✨
 - 🥰 Favorites: Games & Series & Basketball
+- ✉️ Email: 1572677319@qq.com
 <!-- - 📺 I have been addicted to watching series 🔥 since 2010
 - 🏀 I used to love LAClippers ⛵ as lob city, now I just enjoy the games
 - 🎮 Games are always one of my favorites -->
 
-![steam](https://img.shields.io/badge/Steam-Meruem-9cf)
-![email](https://img.shields.io/badge/Email-1572677319@qq.com-blue)
+<!-- ![steam](https://img.shields.io/badge/Steam-Meruem-9cf) -->
+<!-- ![email](https://img.shields.io/badge/Email-1572677319@qq.com-blue) -->
 <!-- ![epic](https://img.shields.io/badge/Epic-Meruem-lightgrey)
 ![uplay](https://img.shields.io/badge/Uplay-Meru117-red)
 ![origin](https://img.shields.io/badge/Origin-DaVinci00X-orange)
